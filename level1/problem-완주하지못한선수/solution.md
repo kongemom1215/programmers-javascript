@@ -1,3 +1,5 @@
+https://school.programmers.co.kr/learn/courses/30/lessons/42576
+
 # 완주하지 못한 선수 
 
 - 입력 : 참여한 선수 배열과, 완주한 선수 배열
